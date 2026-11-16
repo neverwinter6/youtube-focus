@@ -1,0 +1,14 @@
+{
+  "name": "youtube-focus",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A userscript that removes Shorts, recommendations and autoplay from YouTube, and remembers your playback speed.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "node test/e2e.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.50.0"
+  }
+}
