@@ -36,6 +36,16 @@ The Focus button in the top right opens the settings. Alt+F toggles focus mode
 and Alt+J opens the panel. The toggles are also in the userscript manager's menu
 and get saved between visits.
 
+## Where to look
+
+- A video: https://www.youtube.com/watch?v=dQw4w9WgXcQ - the recommendation
+  column is gone and autoplay is off.
+- A search: https://www.youtube.com/results?search_query=funny+cats - the Shorts
+  shelf and the Shorts link in the sidebar are gone.
+- A Shorts link: https://www.youtube.com/shorts/X4dGtpUD3gA - opens as a normal
+  watch page.
+- Playback speed: pick 1.5x on one video, open another, it keeps 1.5x.
+
 ## Notes
 
 - Written for the desktop site. m.youtube.com is matched but the layout tweaks
