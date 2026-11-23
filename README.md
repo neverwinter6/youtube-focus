@@ -7,15 +7,19 @@ and keeps your playback speed for the next video.
 
 ## Install
 
-You need Violentmonkey or Tampermonkey. Then open the raw file and let the
-manager install it:
+Install it from Greasy Fork:
 
-https://raw.githubusercontent.com/neverwinter6/youtube-focus/main/youtube-focus.user.js
+https://greasyfork.org/en/scripts/606925-youtube-focus
+
+Click **Install this script**. You need Violentmonkey or Tampermonkey for that.
 
 On Chrome, extensions can't run user scripts until you allow it. Right click the
 manager's icon, go to Manage extension, and turn on **Allow user scripts**. On
 older Chrome it's Developer mode at chrome://extensions instead. If the script
 seems to do nothing, that switch is almost always why.
+
+The source is `youtube-focus.user.js` in this repo. Opening the raw file works
+too if you would rather install straight from GitHub.
 
 ## What it does
 
