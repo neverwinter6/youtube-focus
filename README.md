@@ -70,6 +70,11 @@ node test/e2e.mjs
 It uses the Chrome already installed on the machine. Set CHROME_PATH for another
 browser, HEADED=1 to watch it run.
 
+## Credits
+
+AI was used to help write the code in this repo. The idea, the settings and the
+testing are mine.
+
 ## License
 
 MIT, see LICENSE.
